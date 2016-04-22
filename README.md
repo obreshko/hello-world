@@ -1,3 +1,3 @@
 # hello-world
-First testing
+First testing.
 Quite good documentation. 
